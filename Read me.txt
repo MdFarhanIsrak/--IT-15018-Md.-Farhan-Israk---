@@ -1,0 +1,31 @@
+Lab Report
+Course Code : ICT-3110
+Course Title  : Operating Systems Lab.
+
+Submitted By:
+
+Name: Md. Farhan Israk
+ID: IT-15018
+3rd year 1st  semester
+Session: 2014-2015
+Dept. of ICT
+MBSTU.
+
+Submitted To:
+
+Nazrul Islam
+Assistant Professor
+Dept. of ICT
+MBSTU.
+
+Report Name:
+Lab-1: Linux (Mint 17) Installation Process.
+Lab-2: Basic Linux command.
+Lab-3: Process handling in Linux.
+Lab-4: First-Come-First-Serve scheduling algorithm
+Lab-5: Short-Job-First(SJF) Non-Preemptive scheduling algorithm.
+Lab-6: Priority scheduling algorithm.
+Lab-7: Round Robin scheduling algorithm.
+Lab-8: Page replacement algorithm(FIFO).
+Lab-9: Bankers algorithm.
+Lab-10:FCFS Disk scheduling algorithm.
